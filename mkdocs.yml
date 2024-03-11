@@ -5,7 +5,7 @@ nav:
     - 'Indeks': 'index.md'
     - 'Xaqida': 'about.md'
 extra:
-  generator: false
+  generator: true
   version:
     provider: mike
 extra_css:
@@ -49,6 +49,5 @@ plugins:
       plugins:
         - social:
             cards: true
-
   - search
   - tags
