@@ -1,0 +1,1 @@
+{"config":{"lang":["tr"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Salom","text":"<pre><code>print(\"PYTHON!\")\n</code></pre>"},{"location":"about/","title":"Bu proekt nima?","text":"<p>Bu proekt Python kurs bolib ochiq ko'dli proekt boladi</p>"}]}
