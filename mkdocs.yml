@@ -13,7 +13,7 @@ extra_css:
 extra_javascript:
   - javascripts/extra.js
 theme:
-  custom_dir: overrides
+  # custom_dir: overrides
   name: material
   palette:
     # Palette toggle for light mode
@@ -49,6 +49,6 @@ plugins:
       plugins:
         - social:
             cards: true
-            
+
   - search
   - tags
