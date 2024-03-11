@@ -1,2 +1,54 @@
-site_name: My Docs
+site_name: Python kurs
 site_description: A Python Course made with mkdocs material and friend
+nav:
+  - Bosh sahifa:
+    - 'Indeks': 'index.md'
+    - 'Xaqida': 'about.md'
+extra:
+  generator: false
+  version:
+    provider: mike
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+theme:
+  custom_dir: overrides
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Qorong'i rejimiga o'tish
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Yoriq rejimiga o'tish
+  language: uz
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.tabs
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.prune
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - header.autohide
+plugins:
+  - group:
+      enabled: !ENV CI
+      plugins:
+        - social:
+            cards: true
+            
+  - search
+  - tags
