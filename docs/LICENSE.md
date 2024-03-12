@@ -1,7 +1,6 @@
 ---
 description: SIMPLIX Public License
 hide:
-    - navigation
     - toc
 search:
     exclude: true
@@ -23,8 +22,8 @@ search:
 > Copyright (c) 2024 FSteak
 
 
-##### Simple and eazy reading LICENSE FOR some of my PROJECTS
-##### No any *bloatware* or *garbage* no *loong* reading JUST **rules**
+Simple and eazy reading LICENSE FOR some of my PROJECTS<br>
+No any *bloatware* or *garbage* no *loong* reading JUST **rules**
 ```csharp
 1. You CAN use it!
 2. You CAN fork and do anything on it!

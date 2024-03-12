@@ -1,13 +1,16 @@
 site_name: Python kurs
 site_url: https://fsteak.github.io/mkdocsmaterial/
-repo_url: https://github.com/FSteak/mkdocsmaterial
+repo_name: FSteak/mkdocsmaterial
+repo_url: https://github.com/FSteak/mkdocsmaterial/
 site_description: A Python Course made with mkdocs material and friend
 nav:
   - Bosh sahifa:
-    - 'Indeks': 'index.md'
-    - 'Xaqida': 'about.md'
+    - index.md
+    - 'Proekt Xaqida': 'about.md'
     - 'Litsenziya': 'LICENSE.md'
-edit_uri: edit/main/docs/
+  - Boshlanishi:
+    - getting-started/index.md
+edit_uri: edit/master/docs/
 extra:
   homepage: /
   generator: true
@@ -22,10 +25,10 @@ extra_javascript:
   - javascripts/extra.js
 theme:
   icon:
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/git-alt
     view: material/eye
     edit: material/pencil
-    logo: simple/python
+    logo: simple/materialformkdocs
   # custom_dir: overrides
   name: material
   palette:
