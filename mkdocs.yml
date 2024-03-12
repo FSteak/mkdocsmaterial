@@ -7,7 +7,7 @@ nav:
     - 'Indeks': 'index.md'
     - 'Xaqida': 'about.md'
     - 'Litsenziya': 'LICENSE.md'
-edit_uri: edit/main/docs/
+edit_uri: edit/master/docs/
 extra:
   homepage: /
   generator: true
