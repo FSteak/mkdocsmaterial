@@ -2,7 +2,6 @@
 !!! info ""
     Python-ni biladiganlar bu paragrafni otkazivorsangiz boladi
 
-
 ## Python - Bu dasturlash tili bolib
 U deyarli har yerda ishlatilayapti<br>
 Masalan: Manashu proekt ham python-da yaratilgan<br>
@@ -18,3 +17,19 @@ Va natija:
 Natija:
 2
 ```
+
+## Python - kerakli bo'ladigan narsalar
+1. Kompyuter (Telefondaham qilish mumkin lekin bu dasturlash uchun yetarli bolmaydi)
+2. Kompyuterni ishlatishni bilish
+3. Ingiliz tilini bilish (sal bo'lsaham)
+
+??? info "Telefonda o'rganish"
+    > Telefo'nda o'rgansa ham boladi lekin bu faqat kommandalarni (buyruqlarni) tekshirib ko'rish uchun
+
+    Telefo'nda o'rganish uchun [Termux](termux.md) ilovasidan ishlatiladi
+    Bu tarzda hali o'tib beriladi
+
+## Boshlang'ich indeksi
+
+1. [Python-ni o'rnatish](installing-python.md)
+
