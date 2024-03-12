@@ -26,7 +26,7 @@ theme:
     view: material/eye
     edit: material/pencil
     logo: simple/python
-  custom_dir: overrides
+  # custom_dir: overrides
   name: material
   palette:
     # Palette toggle for light mode
