@@ -1,19 +1,32 @@
 site_name: Python kurs
+site_url: https://fsteak.github.io/mkdocsmaterial/
+repo_url: https://github.com/FSteak/mkdocsmaterial
 site_description: A Python Course made with mkdocs material and friend
 nav:
   - Bosh sahifa:
     - 'Indeks': 'index.md'
     - 'Xaqida': 'about.md'
+    - 'Litsenziya': 'LICENSE.md'
+edit_uri: edit/main/docs/
 extra:
+  homepage: /
   generator: true
   version:
     provider: mike
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ITProggerUZ
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - javascripts/extra.js
 theme:
-  # custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/github
+    view: material/eye
+    edit: material/pencil
+    logo: simple/python
+  custom_dir: overrides
   name: material
   palette:
     # Palette toggle for light mode
@@ -28,6 +41,8 @@ theme:
         name: Yoriq rejimiga o'tish
   language: uz
   features:
+    - content.action.edit
+    - content.action.view
     - search.suggest
     - search.highlight
     - search.share
@@ -43,11 +58,64 @@ theme:
     - toc.integrate
     - navigation.top
     - header.autohide
+    - navigation.footer
+    - content.code.copy
+    - content.code.annotate
+    - content.tooltips
+    - navigation.indexes
 plugins:
   - group:
       enabled: !ENV CI
       plugins:
+        - glightbox
         - social:
             cards: true
+        - git-revision-date-localized:
+            enable_creation_date: true
+        - git-committers:
+            repository: FSteak/mkdocsmaterial
+            branch: master
+        - git-authors:
+            enabled: true
   - search
-  - tags
+  - tags:
+      tags: true
+markdown_extensions:
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+  - abbr
+  - toc:
+      anchorlink: true
+      permalink: true
+  - pymdownx.smartsymbols
+copyright: Copyright &copy; 2024 FSteak
