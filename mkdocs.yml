@@ -8,8 +8,11 @@ nav:
     - index.md
     - 'Proekt Xaqida': 'about.md'
     - 'Litsenziya': 'LICENSE.md'
+<<<<<<< HEAD
   - Boshlanishi:
     - getting-started/index.md
+=======
+>>>>>>> e758daaa9cf9c5e776a9297471b367e7da0e2530
 edit_uri: edit/master/docs/
 extra:
   homepage: /
