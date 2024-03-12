@@ -14,8 +14,6 @@ edit_uri: edit/master/docs/
 extra:
   homepage: /
   generator: true
-  version:
-    provider: mike
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ITProggerUZ
@@ -24,6 +22,7 @@ extra_css:
 extra_javascript:
   - javascripts/extra.js
 theme:
+  favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/git-alt
     view: material/eye

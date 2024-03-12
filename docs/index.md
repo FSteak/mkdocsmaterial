@@ -1,4 +1,4 @@
-# Uy sahifasi
+# - Uy sahifasi
 
 Kursni bo'shlash uchun bu yerdan boshlang - [Boshlanishi](getting-started/index.md)
 

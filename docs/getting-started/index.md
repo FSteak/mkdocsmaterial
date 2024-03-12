@@ -1,4 +1,4 @@
-# Python: Bu nima?
+# - Python: Bu nima?
 !!! info ""
     Python-ni biladiganlar bu paragrafni otkazivorsangiz boladi
 
