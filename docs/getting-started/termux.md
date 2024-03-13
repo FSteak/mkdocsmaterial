@@ -1,2 +1,2 @@
 # Termux
-:simple-materialformkdocs: - Bu yerda hali ishlar o'lib borilmoqda :material-alert:
+## :simple-materialformkdocs: - Bu yerda hali ishlar o'lib borilmoqda :material-alert:

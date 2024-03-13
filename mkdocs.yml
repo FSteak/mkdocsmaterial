@@ -81,7 +81,6 @@ theme:
     - navigation.expand
     - navigation.prune
     - toc.follow
-    - toc.integrate
     - navigation.top
     - header.autohide
     - navigation.footer
