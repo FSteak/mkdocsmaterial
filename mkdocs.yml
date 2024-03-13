@@ -2,7 +2,7 @@ site_name: Python kurs
 site_url: https://fsteak.github.io/mkdocsmaterial/
 repo_name: FSteak/mkdocsmaterial
 repo_url: https://github.com/FSteak/mkdocsmaterial/
-site_description: A Python Course made with mkdocs material and friend
+site_description: Python-kurs do'stim bilan yaratilgan bo'lib mkdocs-material ishlatilgan
 nav:
   - Bosh sahifa:
     - index.md
@@ -23,19 +23,18 @@ extra:
     provider: google
     property: G-XVNDRHN83B
     feedback:
-      title: Was this page helpful?
+      title: Bu sahifa yordam berdimi?
       ratings:
         - icon: material/emoticon-happy-outline
-          name: This page was helpful
+          name: Ha, bu sahifa yordam berdi.
           data: 1
           note: >-
-            Thanks for your feedback!
+            Malumotingiz uchun raxmat!
         - icon: material/emoticon-sad-outline
-          name: This page could be improved
+          name: Bu sahifani yahshiroq qilsa boladi.
           data: 0
           note: >- 
-            Thanks for your feedback! Help us improve this page by
-            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+            Malumotingiz uchun raxmat! Bizning saytimizga yo'rdam berish uchun <a href="malto://boblox@duck.com" target="_blank" rel="noopener">elektron po'chtamizga</a> jonatsangiz boladi.
   homepage: /
   generator: true
   social:
