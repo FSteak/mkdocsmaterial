@@ -4,6 +4,6 @@ Kursni bo'shlash uchun bu yerdan boshlang - [Boshlanishi](getting-started/index.
 
 # Proekt xaqida
 
-[Proekt haqida](http://localhost:8000/mkdocsmaterial/about/#bu-proekt-nima)
+[Proekt haqida](./about.md#bu-proekt-nima)
 
 :simple-materialformkdocs: - MkDocsga Material proektida yaratilgan

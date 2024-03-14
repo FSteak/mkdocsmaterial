@@ -11,6 +11,7 @@ nav:
   - Boshlanishi:
     - getting-started/index.md
     - "Python-ni o'rnatish": "getting-started/installing-python.md"
+    - "IDE-ni sozlash": "getting-started/installing-ide.md"
     - "Termux": getting-started/termux.md
 edit_uri: edit/master/docs/
 extra:
@@ -19,6 +20,10 @@ extra:
     description: >- 
       Biz sizni takroriy tashriflaringiz va sozlamalaringizni, va yanada bizning dokumentatsiyamizga va foydalano'vchi nima izlayotganini topish uchun yordam berish uchun cookie-fayllarini ishlatamiz.
       Sizning roziligingiz bilan, siz bizga dokumentatsiyamizni yahshiroq qilishga yordam berayotgan bolasiz.
+    actions:
+      - accept
+      - manage
+      - reject
   analytics:
     provider: google
     property: G-XVNDRHN83B
@@ -50,7 +55,7 @@ extra_javascript:
 theme:
   favicon: assets/favicon.png
   icon:
-    repo: fontawesome/brands/git-alt
+    repo: fontawesome/brands/github
     view: material/eye
     edit: material/pencil
     logo: simple/materialformkdocs
