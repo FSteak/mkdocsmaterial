@@ -72,8 +72,7 @@ IDE-ni ornatish
 !!! warning "Rasmlar yoq chunki kurs faqat Windows noutbukida yaratilgan."
 !!! info ""
     <h3>
-    1. DMG-ni oching
-
+    1. DMG-ni oching<br>
     2. Visual Studio Code-ni Applications papkasiga otkazing
     </h3>
 ### VSCodium

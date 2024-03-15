@@ -95,6 +95,7 @@ theme:
     - content.code.annotate
     - content.tooltips
     - navigation.indexes
+    - toc.integrate
 plugins:
   - group:
       enabled: !ENV CI
