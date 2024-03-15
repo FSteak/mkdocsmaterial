@@ -13,6 +13,10 @@ nav:
     - "Python-ni o'rnatish": "getting-started/installing-python.md"
     - "IDE-ni sozlash": "getting-started/installing-ide.md"
     - "Termux": getting-started/termux.md
+  - TODO:
+    - todo/index.md
+    - WIP:
+      - todo/wip/homebrew.md
 edit_uri: edit/master/docs/
 extra:
   consent:

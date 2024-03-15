@@ -89,6 +89,22 @@ IDE-ni ornatish
 #### Linux
 ##### :simple-materialformkdocs: Linux-ga hali ishlar olib-borilmoqda :material-alert:
 
+VSCodium-ni o'rnatish uchun siz linux Distributivingizni bilishingiz kerak
+buni `#!bash neofetch` kommanda bilan boladi lekin bunga siz ingiliz tilini bilishingiz kerak boladi!
+```bash
+neofetch
+```
+
+Terminal-ni ochib bu kommandani yo'zing
+##### Arch Linux
+```bash
+sudo pacman -S vscodium
+```
+
+##### Debian
+!!! info "WIP"
+
+
 ## Post-Install
 !!! info ""
     <h3>
@@ -97,4 +113,4 @@ IDE-ni ornatish
     2. ![Post Install step 2](../assets/images/python-extenstion-install.png)
     </h3>
 
-Va siz muvaffaqiyatli o'rnattingiz!
+Va siz muvaffaqiyatli IDE-ni o'rnattingiz va sozladingiz!
