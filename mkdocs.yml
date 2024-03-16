@@ -49,7 +49,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ITProggerUZ
-    - icon: fontawseome/brands/github
+    - icon: fontawesome/brands/github
       link: https://github.com/7kmn
 extra_css:
   - stylesheets/extra.css
