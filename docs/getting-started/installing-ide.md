@@ -75,6 +75,23 @@ IDE-ni ornatish
     1. DMG-ni oching<br>
     2. Visual Studio Code-ni Applications papkasiga otkazing
     </h3>
+#### Linux
+!!! info "Debian"
+    Debian Distributivi uchun
+    ```bash
+    sudo apt install code
+    ```
+!!! info "Arch Linux"
+    Arch-Linux Distributivi uchun
+    ```bash
+    sudo pacman -S code
+    ```
+!!! info "Fedora Linux"
+    Fedora Distributivi uchun
+    ```bash
+    sudo dnf install code
+    ```
+    > Needs confirmation
 ### VSCodium
 #### Windows
 !!! info ""
