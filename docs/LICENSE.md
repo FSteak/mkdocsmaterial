@@ -6,7 +6,7 @@ search:
     exclude: true
 ---
 
-# SimpliX Pub-**LiC**ense
+# SimplXI Public License
 
 
 ```bash
@@ -19,17 +19,18 @@ search:
 
 
 
-> Copyright (c) 2024 FSteak
+> Copyright (c) 2024-present FSteak
+> Copyright (c) 2024-present Mukhammad Iso
 
+The license that I (or We) use for this project only
 
-Simple and eazy reading LICENSE FOR some of my PROJECTS<br>
-No any *bloatware* or *garbage* no *loong* reading JUST **rules**
-```csharp
-1. You CAN use it!
-2. You CAN fork and do anything on it!
-3. EXCEPT you can NOT sell it! (You can sell it but not just take a fork and selling)
-4. NO BREAKING THE CODE OR DOING MISLEADING INFO AFTER FORKING!
+```markdown
+1. You CAN change the code and use as example or use code, and copy the code to save your time.
+2. You CAN fork and change the bugs and pull request also for providing translations.
+3. You CANNOT use the project for commercial use as it providing free quality course with no any ads.
+4. You CANNOT use this license anywhere as it is specified for Open-Source Course, it is Open-Source because it was started to be a course project to create with friend.
 ```
 
-!!! info "**INFO**"
-    Please Don't blame me for the uppercased typing or like something that
+!!! alert "This license can be same as MIT"
+    But there is no use for commercial
+    and using this license is not allowed (allowed but not in almost any project) but license only specified for the course-type projects
