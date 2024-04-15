@@ -1,23 +1,20 @@
 ---
 description: SIMPLIX Public License
 hide:
-    - toc
+  - toc
 search:
-    exclude: true
+  exclude: true
 ---
 
-# SimplXI Public License
-
+# SimpliX Public License
 
 ```bash
  mmmm  mmmmm  m    m mmmmm  m      mmmmm  m    m
-#"   "   #    ##  ## #   "# #        #     #  # 
-"#mmm    #    # ## # #mmm#" #        #      ##  
-    "#   #    # "" # #      #        #     m""m 
+#"   "   #    ##  ## #   "# #        #     #  #
+"#mmm    #    # ## # #mmm#" #        #      ##
+    "#   #    # "" # #      #        #     m""m
 "mmm#" mm#mm  #    # #      #mmmmm mm#mm  m"  "m
 ```
-
-
 
 > Copyright (c) 2024-present FSteak
 > Copyright (c) 2024-present Mukhammad Iso
@@ -32,5 +29,6 @@ The license that I (or We) use for this project only
 ```
 
 !!! alert "This license can be same as MIT"
-    But there is no use for commercial
-    and using this license is not allowed (allowed but not in almost any project) but license only specified for the course-type projects
+But there is no use for commercial
+and using this license is not allowed (allowed but not in almost any project) but license only specified for the course-type projects
+
