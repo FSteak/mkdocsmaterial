@@ -1,6 +1,6 @@
 # SimpliX Pub-**LiC**ense
 
-```
+```bash
  mmmm  mmmmm  m    m mmmmm  m      mmmmm  m    m
 #"   "   #    ##  ## #   "# #        #     #  #
 "#mmm    #    # ## # #mmm#" #        #      ##
